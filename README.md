@@ -5,3 +5,15 @@
 * Displaying the fetched data on the main page in the form of cards with character images, names, species and origin.
 * Pagination logics developed.
 * Responsive web design.
+
+## Screenshots
+
+### XL screen view
+
+![xl screen](./docs/full.png)
+
+### sm screen view
+
+![sm screen](./docs/md.png)
+
+
