@@ -8,11 +8,11 @@
 
 ## Screenshots
 
-### XL screen view
+### Xtra Large screen view
 
 ![xl screen](./docs/full.png)
 
-### sm screen view
+### Small screen view
 
 ![sm screen](./docs/md.png)
 
