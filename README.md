@@ -8,7 +8,7 @@
 
 ## Screenshots
 
-### Xtra Large screen view
+### Extra Large screen view
 
 ![xl screen](./docs/full.png)
 
